@@ -15,11 +15,6 @@ nav {
   display: flex;
 }
 
-.navbar > li {
-  list-style-type: none;
-  padding-right: 1rem;
-}
-
 a {
   text-decoration: none;
   color: black;
